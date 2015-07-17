@@ -1,0 +1,4 @@
+C:\Users\Jennifer\Desktop\NSS_Projects\BackEnd\NameHW\csharp\nameProject\nameProject\bin\Debug\nameProject.exe
+C:\Users\Jennifer\Desktop\NSS_Projects\BackEnd\NameHW\csharp\nameProject\nameProject\bin\Debug\nameProject.pdb
+C:\Users\Jennifer\Desktop\NSS_Projects\BackEnd\NameHW\csharp\nameProject\nameProject\obj\x86\Debug\nameProject.exe
+C:\Users\Jennifer\Desktop\NSS_Projects\BackEnd\NameHW\csharp\nameProject\nameProject\obj\x86\Debug\nameProject.pdb

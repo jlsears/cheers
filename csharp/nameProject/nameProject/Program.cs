@@ -6,15 +6,15 @@ namespace nameProject
 	{
 		public static void Main (string[] args)
 		{
-			Console.Write ("What's your name?");
-			string theAge = Console.ReadLine();
+			Console.Write ("What's your name? ");
+			string theName = Console.ReadLine();
 
-			for(string i = 0; i < theAge.length; ++i)
+			foreach (char c in theName) 
 			{
-				Console.Write(theAge[i]);
+				Console.WriteLine ("Can I have a " + c.ToString () + "?");
 			}
-
-			Console.WriteLine();
+				
+			Console.WriteLine ("Goooooo " + theName + "!!!! :D");
 		}
 	}
 }
