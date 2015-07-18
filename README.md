@@ -15,9 +15,6 @@ Give me a.. b
 Give me an.. o
 Give me a.. b
 BOB is.. GRAND!
-<<<<<<< HEAD
-=======
-```
 
 ## Cheers (Part 2)
 
@@ -29,7 +26,6 @@ BOB is.. GRAND!
 THe final version of your app should work like the following:
 
 
-```shell
 What's your name?
 > Bob
 What's your birthday?
@@ -41,12 +37,7 @@ Give me a.. b
 BOB is.. GRAND!
 
 Your today is _____ days away!
-```
 
 If the person's birthday is that day your program should say:
 
-```shell
 Happy Birthday!!
-```
-
->>>>>>> 64514b64bd9a68c3dadbd362dcd95391ba345902
